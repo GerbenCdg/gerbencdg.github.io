@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+    <color name="orange">#ff7043</color>
+    <color name="custom_green">#689f38</color>
+    <color name="custom_green_dark">#558b2f</color>
+    <color name="custom_red_dark">#a01c23</color>
+
+
+</resources>
+
+
+material indigo 500 :
+3F51B5
+material indigo 700:
+303F9F
+pink accent 200
+FF4081
